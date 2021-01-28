@@ -1,5 +1,5 @@
 {
-  "name": "johngrimm-utils",
+  "name": "one-utils",
   "version": "0.0.4",
   "description": "Module created for facilitated your life ;) Bringing some native PHP modules to the NODE",
   "main": "index.js",
@@ -11,9 +11,20 @@
     "utils",
     "cpf"
   ],
-  "author": "JohnGrimm",
+  "author": "One7",
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zardx7/one-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zardx7/one-utils/issues"
+  },
+  "homepage": "https://github.com/zardx7/one-utils#readme"
 }
