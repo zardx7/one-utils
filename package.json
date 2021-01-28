@@ -1,5 +1,5 @@
 {
-  "name": "one-utils",
+  "name": "one7-utils",
   "version": "0.0.4",
   "description": "Module created for facilitated your life ;) Bringing some native PHP modules to the NODE",
   "main": "index.js",
